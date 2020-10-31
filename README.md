@@ -3,7 +3,6 @@ This is an native app which run on both the platforms IOS and Android
 # [![Flutter logo][]][flutter.dev]
 
 [![Build Status - Cirrus][]][Build status]
-[![Gitter Channel][]][Gitter badge]
 [![Twitter handle][]][Twitter badge]
 
 Flutter is Google's SDK for crafting beautiful, fast user experiences for
