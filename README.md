@@ -57,17 +57,12 @@ and see the results instantly without restarting your app or losing its state.
 
 [![Hot reload animation][]][Hot reload]
 
-### Extensible and open model
+### Maa Dairy APP UI
+[MAA]
 
-Flutter works with any development tool (or none at all) but includes editor
-plug-ins for both [Visual Studio Code] and [IntelliJ / Android Studio]. Flutter
-provides [thousands of packages][Flutter packages] to speed your development,
-regardless of your target platform. And accessing other native code is easy,
-with support for both [FFI] and [platform-specific APIs][platform channels].
 
-Flutter is a fully open-source project, and we welcome contributions.
-Information on how to get started can be found at our
-[contributor guide](CONTRIBUTING.md).
+
+
 
 [Flutter logo]: https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png
 [flutter.dev]: https://flutter.dev
@@ -91,3 +86,4 @@ Information on how to get started can be found at our
 [FFI]: https://flutter.dev/docs/development/platform-integration/c-interop
 [platform channels]: https://flutter.dev/docs/development/platform-integration/platform-channels
 [interop example]: https://github.com/flutter/flutter/tree/master/examples/platform_channel
+[MAA]: https://github.com/kush-koderrex/Flutter-Dairy-app/blob/main/Maa.jpeg
